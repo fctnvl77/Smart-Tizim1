@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*kz2=^#qv6j9)#=auuy^v4pl3to23oow@i%k%%w8r^y(jlajbp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['smarttizim.pythonanywhere.com']
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
